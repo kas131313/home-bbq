@@ -1,0 +1,7 @@
+.Header {
+    position: fixed;
+    width: 1600px;
+    height: 900px;
+    top: 1px;
+    background: url(../backgrounds/video.png);
+}
