@@ -5,3 +5,31 @@
     top: 1px;
     background: url(../backgrounds/video.png);
 }
+.LOGO {
+    position: fixed;
+    left: 42.79%;
+    right: 42.62%;
+    top: 0%;
+    bottom: 0.54%;
+}
+.Instagram {
+    position: fixed;
+    width: 20px;
+    height: 20px;
+    left: 1129px;
+    top: 40px;
+}
+.Facebook {
+    position: fixed;
+    width: 19.59px;
+    height: 20px;
+    left: 1079px;
+    top: 40px;
+}
+.Search {
+    position: fixed;
+    width: 20px;
+    height: 20px;
+    left: 1179px;
+    top: 40px;
+}
