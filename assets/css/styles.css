@@ -33,3 +33,23 @@
     left: 1179px;
     top: 40px;
 }
+.Clock {
+    position: fixed;
+    width: 20.02px;
+    height: 20px;
+    left: 790px;
+    top: 40px;
+
+}
+.WorkingHours {
+    position: fixed;
+    height: 20px;
+    left: 815px;
+    top: 40px;
+    
+    font-family: Lato;
+    font-size: 11px;
+    line-height: 10px;
+
+    color: white;
+}
