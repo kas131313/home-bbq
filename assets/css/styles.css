@@ -53,3 +53,23 @@
 
     color: white;
 }
+.Shape {
+    position: fixed;
+    left: 150px;
+    right: 98.39%;
+    top: 40px;
+    bottom: 41.84%;
+    color: white;
+}
+.tel {
+    position: fixed;
+    left: 200px;
+    right: 87.98;
+    top: 40px;
+
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    color: white;
+}
